@@ -3,7 +3,7 @@ var playlist = {
 }
 
 function updatePlaylist (playlist, artistName, songTitle){
-  playlist [artistName] = ["Here's to the State of Mississippi"]
+  playlist [artistName] = 
 }
 
 function removeFromPlaylist (playlist, artistName){
